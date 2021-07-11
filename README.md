@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @japanesekenji
+- 👋 Hi, I’m @japanesekenji Albert Kent Banico
 
 
 - 👀 I’m interested in artificial intelligence technology, Security Penetration, Website Application Development, Software Development, Mobile Application Development and More...
