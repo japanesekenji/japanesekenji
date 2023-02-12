@@ -1,19 +1,6 @@
 - 👋 Hi, I’m @japanesekenji Albert Kent Banico
 
 
-- 👀 I’m interested in artificial intelligence technology, Security Penetration, Website Application Development, Software Development, Mobile Application Development and More...
-     
-      I do also have behance and dribbble account.
-      behance.net/japanesekenji   
-      dribbble.com/japanesekenji
+- 👀 Fullstack developer with a passion for both backend complexity and UI design. Constantly exploring new technology, particularly in the fields of artificial intelligence and machine learning. Always looking to push the boundaries and create innovative solutions.
 
-- 🌱 I’m currently learning more on progressive webapp development.
-
-
-- 💞️ I’m looking to collaborate on any project. Just pm me on my email. 
-- 📫 How to reach me kentknowsit@gmail.com
-
-<!---
-japanesekenji/japanesekenji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
